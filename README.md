@@ -27,3 +27,27 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love languages, creating content online, and producing songs on flights.
 
+#### My Stats📊
+
+<p align="center">
+
+  <a href="https://galus.github.io/" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=galus&show_icons=true&show=reviews&rank_icon=percentile&theme=onedark&hide=contribs,issues,prs,commits,star" alt="Galus's github stats" width="80%"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=galus&show_icons=true&show=&rank_icon=percentile&theme=onedark&hide=contribs,issues,prs,commits,stars" alt="Galus's github stats" width="80%"/>
+  </a>
+  <br/>
+  <br/>
+  <a href="https://galus.github.io">
+    <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=galus&show_icons=true&count_private=true&theme=onedark&number_format=long" />
+  </a>
+  <a href="https://galus.github.io">
+    <img width="50.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=galus&theme=onedark" />
+  </a>
+  <br/> 
+  <a href="https://galus.github.io">
+    <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galus&layout=compact&theme=onedark" />
+  </a>
+  <a href="https://github.com/galus/rust-edu">
+    <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=galus&repo=dune&line_height=20&theme=onedark" />
+  </a>
+</p>
