@@ -29,6 +29,8 @@
 
 #### My Stats📊
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/galus?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+
 <p align="center">
 
   <!--<a href="https://galus.github.io/" >-->
