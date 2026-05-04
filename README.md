@@ -29,7 +29,6 @@
 
 #### My Stats📊
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/galus?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <p align="center">
 
@@ -39,17 +38,27 @@
   <!--</a>-->
   <!--<br/>-->
   <!--<br/>-->
+  <!--
   <a href="https://galus.github.io">
     <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=galus&show_icons=true&count_private=true&theme=onedark&number_format=long" />
   </a>
+  -->
+  
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=monokai&fontFamily=&preferLogin=false">
+    <img  alt="galus's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/galus?cardType=level&theme=monokai&fontFamily=&preferLogin=false" />  
+  </a>
+    
   <a href="https://galus.github.io">
     <img width="50.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=galus&theme=onedark" />
   </a>
-  <br/> 
+  
+  <br/>
+  <!--
   <a href="https://galus.github.io">
     <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galus&layout=compact&theme=onedark" />
   </a>
   <a href="https://github.com/galus/rust-edu">
     <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=galus&repo=rust-edu&line_height=20&theme=onedark" />
   </a>
+  -->
 </p>
