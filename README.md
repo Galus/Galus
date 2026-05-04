@@ -10,6 +10,9 @@
     <img width="99%" src="https://github-profile-trophy.vercel.app/?username=galus&row=1&column=7&theme=onedark" />
   </a>
 </p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Galus&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mario Galus's GitHub Trophies" />
+</p>
 
 ---
 
@@ -26,7 +29,7 @@
 - 📫 How to reach me: mg@mgal.us
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love languages, creating content online, and producing songs on flights.
-
+<!--
 #### My Stats📊
 
 
@@ -43,7 +46,8 @@
     <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=galus&show_icons=true&count_private=true&theme=onedark&number_format=long" />
   </a>
   -->
-  
+
+  <!-- WORKING
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=monokai&fontFamily=&preferLogin=false">
     <img  alt="galus's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/galus?cardType=level&theme=monokai&fontFamily=&preferLogin=false" />  
   </a>
@@ -53,6 +57,8 @@
   </a>
   
   <br/>
+  WORKING
+  -->
   <!--
   <a href="https://galus.github.io">
     <img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galus&layout=compact&theme=onedark" />
@@ -60,5 +66,27 @@
   <a href="https://github.com/galus/rust-edu">
     <img width="63.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=galus&repo=rust-edu&line_height=20&theme=onedark" />
   </a>
-  -->
+  NOT WORKING
+  
 </p>
+-->
+
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/Galus">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Galus&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="Galus's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Galus&theme=monokai&hide_border=true&cache_seconds=86400" alt="Galus's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Galus&theme=monokai&radius=10" alt="Galus's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://github.com/Galus">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Galus&langs_count=8&layout=compact&theme=monokai&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
